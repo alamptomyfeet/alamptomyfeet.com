@@ -127,3 +127,13 @@ footer .legal{font-size:.78rem;max-width:660px;margin:30px auto 0;line-height:1.
 .ihero:after{content:"";position:absolute;inset:0;background:rgba(38,28,22,.42)}.ihero .inner{position:relative;z-index:2}
 .ihero .eyebrow{color:#F1E3DA}.ihero p{font-size:1.15rem}
 @media(max-width:720px){.ahead{padding:60px 22px 34px}.acta{padding:36px 22px}.ihero{padding:110px 0 96px}}
+.acards:has(> :nth-child(5)){grid-template-columns:repeat(3,1fr)}
+@media(min-width:1000px){.acards:has(> :nth-child(5)) h3{font-size:1.65rem}}
+@media(max-width:860px){.acards:has(> :nth-child(5)){grid-template-columns:1fr}}
+.topics{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 30px;padding:46px 28px 0}
+.topics a{font:400 .7rem "Jost",sans-serif;letter-spacing:.26em;text-transform:uppercase;color:var(--ink);text-decoration:none;padding:8px 0;border-bottom:1px solid var(--line)}
+.topics a:hover{border-color:var(--clay)}
+.tgroup{padding:80px 0 30px}.tgroup:last-of-type{padding-bottom:110px}.tgroup h2{margin-bottom:0}.tgroup .acards{margin-top:36px}
+.tgroup+.tgroup{border-top:1px solid var(--line);margin-top:50px}
+.ahead .eyebrow a:hover{color:var(--clay-d)}
+@media(max-width:720px){.tgroup{padding:60px 0 20px}}
