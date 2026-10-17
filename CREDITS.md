@@ -23,4 +23,27 @@ Pexels license limits that apply to us: don't sell unaltered copies, don't imply
 | photos/pastel-sea-card.jpg (Hope) | https://www.pexels.com/photo/ocean-view-during-sunrise-15178374/ | (Pexels contributor) |
 | photos/light-shadow-card.jpg (Healing) | https://www.pexels.com/photo/vase-with-pampas-grass-placed-on-desk-5797998/ | (Pexels contributor) |
 
-The email illustrations in images/ are our own.
+## Email photos
+Used in the 30-day email series and the sample preview. Sourced Oct 16, 2026 from Pexels under the Pexels License (https://www.pexels.com/license/, rechecked Oct 16, 2026: free to use, commercial use included, attribution not required, modification allowed). No identifiable faces. Cropped to 1200x800, given a light warm film grade, and saved as progressive JPGs under 150 KB.
+
+| File | Source | Creator |
+|---|---|---|
+| images/email/coffee-bible-linen.jpg | https://www.pexels.com/photo/31145662/ | Letícia Alvares |
+| images/email/bible-white-flowers.jpg | https://www.pexels.com/photo/8383409/ | Tara Winstead |
+| images/email/window-sunrise.jpg | https://www.pexels.com/photo/14710861/ | Gülru Sude |
+| images/email/tea-flowers-lace.jpg | https://www.pexels.com/photo/30216006/ | Rahime Gül |
+| images/email/bible-notebook-linen.jpg | https://www.pexels.com/photo/8383451/ | Tara Winstead |
+| images/email/misty-dawn.jpg | https://www.pexels.com/photo/29134794/ | Steffen Rühlmann |
+| images/email/open-book-bed.jpg | https://www.pexels.com/photo/19355503/ | Book Hut |
+| images/email/sheer-curtains.jpg | https://www.pexels.com/photo/35494095/ | ansiveg |
+| images/email/dried-rose-book.jpg | https://www.pexels.com/photo/29749048/ | Ramandeep singh |
+| images/email/coffee-book-glass.jpg | https://www.pexels.com/photo/29716622/ | Rahime Gül |
+| images/email/golden-grasses.jpg | https://www.pexels.com/photo/30311723/ | Tim Pasemann |
+| images/email/lilacs-coffee-book.jpg | https://www.pexels.com/photo/4376208/ | Ioana Motoc |
+| images/email/bible-journal-glasses.jpg | https://www.pexels.com/photo/8383411/ | Tara Winstead |
+| images/email/mug-window-sill.jpg | https://www.pexels.com/photo/28704826/ | aisekaplan |
+| images/email/book-daisies.jpg | https://www.pexels.com/photo/20433417/ | Melike B |
+| images/email/roses-behind-curtain.jpg | https://www.pexels.com/photo/9732297/ | Ника Алексеева |
+| images/email/tea-book-blanket.jpg | https://www.pexels.com/photo/29010913/ | Anna Zanovelli Bacci |
+| images/email/curtain-window-light.jpg | https://www.pexels.com/photo/29623050/ | zheng liang |
+| images/email/open-window.jpg | https://www.pexels.com/photo/33040526/ | zeynepshoots |
