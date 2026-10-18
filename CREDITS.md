@@ -144,3 +144,6 @@ Creators were read from each photo's Pexels page. Photos from the same shoot (co
 | images/email/white-tulips-glass.jpg | https://www.pexels.com/photo/24251637/ | Esra Karakulak |
 | images/email/white-wildflower-meadow.jpg | https://www.pexels.com/photo/33135637/ | Helena Jankovičová Kováčová |
 | images/email/window-sunrise.jpg | https://www.pexels.com/photo/14710861/ | Gülru Sude |
+
+## Pinterest pins
+images in /pins/ (20 PNGs, 1000x1500) use higher-resolution downloads of the same Pexels photos listed under Email photos above (same Pexels IDs and creators), cropped to 2:3 with a light warm grade and text overlays. Photos used: coffee-candlelight, candle-windowsill, coffee-journal-bible, bible-coffee-hands, hands-holding-bible, bible-open-linen, hand-on-bible, open-window, bible-glasses-notebook, coffee-window-shadows, misty-pier, foggy-field-sunrise, tulips-soft-light, dew-wildflowers, lilacs-coffee-book, tea-flowers-lace, bible-flower-sprig, white-wildflower-meadow, meadow-sunrise, meadow-wildflowers-sunrise.
